@@ -8,6 +8,6 @@ metadata:
 spec:
  containers:
   - name: container1
-    image: pradeepkumar2690/dct
+    image: pradeepkumar2690/dct:signed
     ports:
      - containerPort: 8080
